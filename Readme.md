@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm ZakariaMQ</h1>
-<h3 align="center">Specialist in Automation, Scraping at scale, and Web App Reverse Engineering</h3>
+<h1 align="center">Hi there! 👋 I'm ZakariaMQ</h1>
+<h3 align="center">Backend Developer with expertise in Automation, Networking, and Security</h3>
 
-- 🌱 I’m currently learning [**Rust**, **Java**, **Mobile APPs**]
+- 🌱 Currently expanding my knowledge in [**Rust**, **Java**, **Mobile App Development**]
 
-- 👯 I’m looking to collaborate on **Reverse Engineering projects**
-- 👯 I'm Interested in detection mechanisms fingerprinting and all stealth in web or mobile
-- 👨‍💻 All of my projects are available at [https://github.com/ZakariaMQ?tab=repositories](https://github.com/ZakariaMQ?tab=repositories)
+- 👯 Open to collaborating on **Backend Development and Security projects**
+- 👯 Interested in leveraging detection mechanisms and stealth techniques for web and mobile applications
+- 👨‍💻 Check out my projects at [https://github.com/ZakariaMQ?tab=repositories](https://github.com/ZakariaMQ?tab=repositories)
 
-- 💬 Ask me about [**Automation, scraping, reverse engineering**]
+- 💬 Feel free to ask me about [**Backend Development, Automation, Networking, Security**]
 
-- 📫 How to reach me **https://t.me/SeasonedCode**
-
-- ⚡ Fun fact **lol**
+- 📫 Reach me at [https://t.me/SeasonedCode](https://t.me/SeasonedCode)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
