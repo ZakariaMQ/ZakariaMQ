@@ -12,13 +12,21 @@
 - 📫 Reach me at [https://t.me/SeasonedCode](https://t.me/SeasonedCode)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/seasonedcode/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Seasoned_Code" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/SeasonedCode" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -78,8 +86,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
-
-###
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/seasonedcode"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="seasonedcode" /></a></p><br><br>
