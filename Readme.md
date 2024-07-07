@@ -16,9 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZakariaMQ/count.svg?"  />
-</div>
 
 ###
 
